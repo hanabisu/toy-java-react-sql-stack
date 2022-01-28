@@ -1,7 +1,7 @@
 "# toy-java-react-sql-stack" 
 
 # To Run 
-Have a mysql server running that contains a database named testdb
+Have a mysql server running that contains a database named `testdb`
 - If you don't have a db named testdb then after logging into mysql server run `CREATE DATABASE testdb;`
 
 In the backEnd folder
